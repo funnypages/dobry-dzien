@@ -6,3 +6,5 @@
 
 #Zemsta logopedy :weary:
 ![zdjęcie gh] (http://img1.stylowi.pl//images/items/o/201402/stylowi_pl_humor_18135974.png)
+
+#Koń by się uśmiał HA HA HA
