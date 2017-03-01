@@ -10,7 +10,4 @@
 #Koń by się uśmiał HA HA HA
 
 
-////|.....|,,,
-----|----|---
-*nie widać jak wisi* | `nie widać jak stoi` | **nie widać kto...**
-1 | 2 | 3
+
