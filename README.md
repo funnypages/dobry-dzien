@@ -12,5 +12,4 @@
 
 
 
-![img_2485](https://cloud.githubusercontent.com/assets/25862629/23478766/a52ed4d0-fec2-11e6-8feb-1c63caa89dec.JPG)
 
