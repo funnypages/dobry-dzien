@@ -12,7 +12,7 @@
 
 Howard Thurman 
 
-    ## **6 dróg do szczęścia:**
+   ## **6 dróg do szczęścia:**
 >* weż odpowiedzialność za siebie
 >* nie myl szczęścia z zamożnością
 >* stawiaj sobie realne cele
