@@ -4,13 +4,13 @@
 #Zemsta logopedy :weary:
 ![zdjęcie gh] (http://img1.stylowi.pl//images/items/o/201402/stylowi_pl_humor_18135974.png)
 
-####Koń by się uśmiał HA HA HA####
 
 
 > Nie pytaj czego świat potrzebuje. 
 >Pytaj co czyni Cię pełnym życia i rób to. Ponieważ tym czego świat potrzebuje są ludzie pełni zycia. 
 
-Howard Thurman 
+ 
+Miliony wygrane w totka, wspaniały dom w Toskani nie zmianią marudy w króla życia. Dowiedz się, jak, uczynić samego siebie szczęśliwym, a Twoje życie stanie się llepsze z dnia na dzień. :smile:
 
 **6 dróg do szczęścia:**
 >* weż odpowiedzialność za siebie
@@ -20,5 +20,16 @@ Howard Thurman
 >* dbaj o zwiążki z innymi
 >* dbaj o ciało
 
-
+10najszczęśliwszych społeczeństw świata | skala punktów 0-10 |
+----------------------------------------| -------------------
+1. Kostaryka                            |         8,5        |
+2. Dania                                |         8,4        |
+3. Meksyk                               |         8,3        |
+4. Islandia                             |         8,1        |
+5. Kanada                               |         8          |
+6. Szwajcaria                           |         8          |
+7. Norwegia                             |         8          |
+8. Finlandia                            |         7,9        |
+9. Kolumbia                             |         7,9        |
+10. Wenezual                            |         7,8        |
 
