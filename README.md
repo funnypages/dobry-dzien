@@ -2,7 +2,7 @@
 ![zdjęcie gh] (http://www.xdpedia.com/obrazki/jaka_jestem_jedyna_w_swoim_rodzaju_dla_kazdego_17947.jpg)
 
 #Zemsta logopedy :weary:
-![zdjęcie gh] (http://img1.stylowi.pl//images/items/o/201402/stylowi_pl_humor_18135974.png)
+![zdjęcie gh] (http://img2.stylowi.pl//images/items/o/201207/popkorn.pl_humor_247768.jpg)
 
 
 
@@ -36,3 +36,4 @@ _6 dróg do szczęścia:_
 
 
 ![zdjęcie]  (http://static.polityka.pl/_resource/res/path/6b/f5/6bf521a9-aa47-4bda-ba78-02def2fd8c31_665x665)
+
