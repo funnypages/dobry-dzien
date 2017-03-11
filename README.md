@@ -12,7 +12,7 @@
  
 Miliony wygrane w totka, wspaniały dom w Toskani nie zmianią marudy w króla życia. Dowiedz się, jak, uczynić samego siebie szczęśliwym, a Twoje życie stanie się llepsze z dnia na dzień. :smile:
 
-**6 dróg do szczęścia:**
+_6 dróg do szczęścia:_
 >* weż odpowiedzialność za siebie
 >* nie myl szczęścia z zamożnością
 >* stawiaj sobie realne cele
@@ -20,7 +20,8 @@ Miliony wygrane w totka, wspaniały dom w Toskani nie zmianią marudy w króla �
 >* dbaj o zwiążki z innymi
 >* dbaj o ciało
 
-10najszczęśliwszych społeczeństw świata | skala punktów 0-10 |
+
+10 najszczęśliwszych społeczeństw świata | skala punktów 0-10 |
 ----------------------------------------| -------------------
 1. Kostaryka                            |         8,5        |
 2. Dania                                |         8,4        |
