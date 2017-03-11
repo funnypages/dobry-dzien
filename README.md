@@ -1,8 +1,5 @@
-### u-miech-to-po-owa-sukcesu ###
+##### .... Kołem Się Toczy  #####
 ![zdjęcie gh] (http://www.xdpedia.com/obrazki/jaka_jestem_jedyna_w_swoim_rodzaju_dla_kazdego_17947.jpg)
-#DIETA -ACH DIETA, koniec z hurtem czas na detal !#
-![zdjęcie gh] (http://img1.stylowi.pl//images/items/o/201508/stylowi_pl_humor_36734958.jpg) 
-
 
 #Zemsta logopedy :weary:
 ![zdjęcie gh] (http://img1.stylowi.pl//images/items/o/201402/stylowi_pl_humor_18135974.png)
