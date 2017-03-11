@@ -6,8 +6,10 @@
 
 ####Koń by się uśmiał HA HA HA####
 
->* Nie pytaj czego świat potrzebuje. Pytaj co czyni Cię pełnym życia i rób to. Ponieważ tym czego świat potrzebuje są ludzie pełni zycia.* Howard Thurman
 
+> Nie pytaj czego świat potrzebuje. 
+>Pytaj co czyni Cię pełnym życia i rób to. Ponieważ tym czego świat potrzebuje są ludzie pełni zycia. 
 
+Howard Thurman 
 
 
