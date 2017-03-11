@@ -1,5 +1,5 @@
 ### u-miech-to-po-owa-sukcesu ###
-![zdjęcie gh] (http://static.fishki.pl/static/posts/97/97618/foto_b336d791f9312a36537455673a4da1de_org.jpg)
+![zdjęcie gh] (http://www.xdpedia.com/obrazki/jaka_jestem_jedyna_w_swoim_rodzaju_dla_kazdego_17947.jpg)
 #DIETA -ACH DIETA, koniec z hurtem czas na detal !#
 ![zdjęcie gh] (http://img1.stylowi.pl//images/items/o/201508/stylowi_pl_humor_36734958.jpg) 
 
