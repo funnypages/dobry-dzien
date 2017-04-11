@@ -1,4 +1,8 @@
 # .... Kołem Się Toczy  #
+
+## Szczęście to najważniejsza rzecz w życiu człowieka ##
+>Każdy zastanawia się, co jest najważniejsze w ludzkim życiu. Moim zdaniem najistotniejszą wartością, która naprawdę ma znaczenie, jest szczęście. Czym jest dla mnie szczęście? Szczęście to radość życia, którą odczuwam niezależnie od okoliczności. Innymi słowy, zdaję sobię sprawę, że w moim życiu muszą mieć miejsce lepsze i gorsze chwile, ale to co naprawdę ma znaczenie to dar życia, za który jestem wdzięczna. I to jest dla mnie podstawowe źródło szczęścia.
+
 ![zdjęcie gh](http://www.xdpedia.com/obrazki/jaka_jestem_jedyna_w_swoim_rodzaju_dla_kazdego_17947.jpg)
 
  :star:
