@@ -37,42 +37,40 @@ _6 dróg do szczęścia:_
 
 ![zdjęcie]  (http://static.polityka.pl/_resource/res/path/6b/f5/6bf521a9-aa47-4bda-ba78-02def2fd8c31_665x665)
 
-{object} config.border
+
+    Wyrównanie zawartości komórki
+
+{string} config.columns[{number}].alignment Obiekt kontroluje zawartość poziome ustawienie w komórce.
+
+Prawidłowe wartości to: „w lewo”, „prawo” i „centrum”.
+
 niech config,
     dane,
     wydajność;
 
 Dane = [
-    [ ' 10 najszczęśliwszych społeczeństw świata ' , ' skala punktów 0-10 ' ,  ]
-    [ ' 1. Kostaryka ' , ' 8,5 ' ,  ]
-    [ ' 2. Dania ' , ' 8,5 ' , ]
+    [ ' 10 najszczęśliwszych społeczeństw świata' , ' skala punktów 0-10 ' , ]
+    [ ' 1. Kostaryka   ' , '  8,5  ' , ' 1C ' ]
+    [ ' 2A ' , ' 2B ' , ' 2C ' ]
 ];
 
 konfiguracyjny = {
-    border : {
-        topBody :  ` ─ ` ,
-        topJoin :  ` ┬ ` ,
-        topLeft :  ` ┌ ` ,
-        topright :  ` ┐ ` ,
-
-        bottomBody :  ` ─ ` ,
-        bottomJoin :  ` ┴ ` ,
-        bottomleft :  ` └ ` ,
-        bottomRight :  ` ┘ ` ,
-
-        bodyLeft :  ` │ ` ,
-        bodyRight :  ` │ ` ,
-        bodyJoin :  ` │ ` ,
-
-        joinBody :  ` ─ ` ,
-        joinLeft :  ` ├ ` ,
-        joinRight :  ` ┤ ` ,
-        joinJoin :  ` ┼ `
+    Kolumny : {
+         0 : {
+            Wyrównanie :  „ w lewo ” ,
+            MinWidth :  10
+        }
+        1 : {
+            Wyrównanie :  „ Centrum ” ,
+            MinWidth :  10
+        }
+        2 : {
+            Wyrównanie :  „ prawo ” ,
+            MinWidth :  10
+        }
     }
 };
 
 Wyjście =  stół (dane konfiguracji);
 
 konsola . log (wyjście);
-
-
