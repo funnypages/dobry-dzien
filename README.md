@@ -1,7 +1,13 @@
 # .... Kołem Się Toczy  #
 
 ## Szczęście to najważniejsza rzecz w życiu człowieka ##
->Każdy zastanawia się, co jest najważniejsze w ludzkim życiu. Moim zdaniem najistotniejszą wartością, która naprawdę ma znaczenie, jest szczęście. Czym jest dla mnie szczęście? Szczęście to radość życia, którą odczuwam niezależnie od okoliczności. Innymi słowy, zdaję sobię sprawę, że w moim życiu muszą mieć miejsce lepsze i gorsze chwile, ale to co naprawdę ma znaczenie to dar życia, za który jestem wdzięczna. I to jest dla mnie podstawowe źródło szczęścia.
+>Zagadnienie szczęścia i szczęśliwego życia to tematy, które krążyły w umysłach ludzi już setki lat wstecz. Współczesne doniesienia w obszarze dobrostanu psychicznego mówią, że o jakości życia człowieka przede wszystkim decyduje, czy to życie jemu samemu podoba się.
+
+Pojęcie to jest tak stare jak myśl człowieka. Większość z nas niechętnie rezygnuje z przyjemności. Ale nie można nikogo za to winić, gdyż ciągłe dążenie do zaspakajania tego co człowiekowi miłe jest wpisane w naturę człowieka. Co ciekawe, o tym, że byliśmy szczęśliwi uświadamiamy sobie dopiero w chwili kiedy szczęście nas opuści. Korzystając z przemyśleń filozofów 
+i przekazów na ten temat możemy prześledzić, jak pojmowali szczęście nasi przodkowie, jak się zmieniała definicja szczęścia 
+i co dawniej nazywano szczęściem, a czym jest ono dla współczesnych ludzi?
+
+Jedno jest pewne! Człowiek dąży do szczęścia, a przyjemność i radość są wpisane w jego osobowość. Już starożytni Grecy wiedzieli, że pomyślność Fortuny jest ważna, a do darów z jej rogu obfitości ma prawo każdy. Epikurejczycy uważali, że szczęście jest największym dobrem człowieka. Stoikom zaś zadowolenie dawało życie w cnocie. Według Arystotelesa głównym celem działania człowieka było dążenie do osiągnięcia szczęścia, a Marek Aureliusz nazywał nim dobre czyny i  dobre skłonności
 
 ![zdjęcie gh](http://www.xdpedia.com/obrazki/jaka_jestem_jedyna_w_swoim_rodzaju_dla_kazdego_17947.jpg)
 
