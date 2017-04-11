@@ -37,3 +37,41 @@ _6 dróg do szczęścia:_
 
 ![zdjęcie]  (http://static.polityka.pl/_resource/res/path/6b/f5/6bf521a9-aa47-4bda-ba78-02def2fd8c31_665x665)
 
+niech config,
+    dane,
+    wydajność;
+
+Dane = [
+    [ ' 10 najszczęśliwszych społeczeństw świata ' , ' skala punktów 0-10 ' ,  ]
+    [ ' 1. Kostaryka ' , ' 8,5 ' ,  ]
+    [ ' 2. Dania ' , ' 8,5 ' , ]
+];
+
+konfiguracyjny = {
+    border : {
+        topBody :  ` ─ ` ,
+        topJoin :  ` ┬ ` ,
+        topLeft :  ` ┌ ` ,
+        topright :  ` ┐ ` ,
+
+        bottomBody :  ` ─ ` ,
+        bottomJoin :  ` ┴ ` ,
+        bottomleft :  ` └ ` ,
+        bottomRight :  ` ┘ ` ,
+
+        bodyLeft :  ` │ ` ,
+        bodyRight :  ` │ ` ,
+        bodyJoin :  ` │ ` ,
+
+        joinBody :  ` ─ ` ,
+        joinLeft :  ` ├ ` ,
+        joinRight :  ` ┤ ` ,
+        joinJoin :  ` ┼ `
+    }
+};
+
+Wyjście =  stół (dane konfiguracji);
+
+konsola . log (wyjście);
+
+
