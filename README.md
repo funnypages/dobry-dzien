@@ -1,8 +1,8 @@
 # .... Kołem Się Toczy  #
-![zdjęcie gh] (http://www.xdpedia.com/obrazki/jaka_jestem_jedyna_w_swoim_rodzaju_dla_kazdego_17947.jpg)
+![zdjęcie gh](http://www.xdpedia.com/obrazki/jaka_jestem_jedyna_w_swoim_rodzaju_dla_kazdego_17947.jpg)
 
  :star:
-![zdjęcie gh] (http://img2.stylowi.pl//images/items/o/201209/stylowi_pl_fotografia_1126397.jpg)
+![zdjęcie gh](http://img2.stylowi.pl//images/items/o/201209/stylowi_pl_fotografia_1126397.jpg)
 
 
 
