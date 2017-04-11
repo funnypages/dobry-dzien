@@ -1,4 +1,4 @@
-**# .... Kołem Się Toczy  #**
+# .... Kołem Się Toczy  #
 ![zdjęcie gh] (http://www.xdpedia.com/obrazki/jaka_jestem_jedyna_w_swoim_rodzaju_dla_kazdego_17947.jpg)
 
  :star:
