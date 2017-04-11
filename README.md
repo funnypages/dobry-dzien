@@ -1,7 +1,7 @@
 # .... Kołem Się Toczy  #
 
 ## Szczęście to najważniejsza rzecz w życiu człowieka ##
->Zagadnienie szczęścia i szczęśliwego życia to tematy, które krążyły w umysłach ludzi już setki lat wstecz. Współczesne doniesienia w obszarze dobrostanu psychicznego mówią, że o jakości życia człowieka przede wszystkim decyduje, czy to życie jemu samemu podoba się.
+>*Zagadnienie szczęścia i szczęśliwego życia to tematy, które krążyły w umysłach ludzi już setki lat wstecz. Współczesne doniesienia w obszarze dobrostanu psychicznego mówią, że o jakości życia człowieka przede wszystkim decyduje, czy to życie jemu samemu podoba się.*
 
 Pojęcie to jest tak stare jak myśl człowieka. Większość z nas niechętnie rezygnuje z przyjemności. Ale nie można nikogo za to winić, gdyż ciągłe dążenie do zaspakajania tego co człowiekowi miłe jest wpisane w naturę człowieka. Co ciekawe, o tym, że byliśmy szczęśliwi uświadamiamy sobie dopiero w chwili kiedy szczęście nas opuści. Korzystając z przemyśleń filozofów 
 i przekazów na ten temat możemy prześledzić, jak pojmowali szczęście nasi przodkowie, jak się zmieniała definicja szczęścia 
