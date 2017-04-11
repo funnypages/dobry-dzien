@@ -22,55 +22,20 @@ _6 dróg do szczęścia:_
 
 
 10 najszczęśliwszych społeczeństw świata | skala punktów 0-10 |
-----------------------------------------| -------------------
-1. Kostaryka                            |         8,5        |
-2. Dania                                |         8,4        |
-3. Meksyk                               |         8,3        |
-4. Islandia                             |         8,1        |
-5. Kanada                               |         8          |
-6. Szwajcaria                           |         8          |
-7. Norwegia                             |         8          |
-8. Finlandia                            |         7,9        |
-9. Kolumbia                             |         7,9        |
-10. Wenezual                            |         7,8        |
+---------------------------------------- | -------------------
+1. Kostaryka                             |         8,5        |
+2. Dania                                 |         8,4        |
+3. Meksyk                                |         8,3        |
+4. Islandia                              |         8,1        |
+5. Kanada                                |         8          |
+6. Szwajcaria                            |         8          |
+7. Norwegia                              |         8          |
+8. Finlandia                             |         7,9        |
+9. Kolumbia                              |         7,9        |
+10. Wenezual                             |         7,8        |
 
 
 ![zdjęcie]  (http://static.polityka.pl/_resource/res/path/6b/f5/6bf521a9-aa47-4bda-ba78-02def2fd8c31_665x665)
 
 
-    Wyrównanie zawartości komórki
-
-{string} config.columns[{number}].alignment Obiekt kontroluje zawartość poziome ustawienie w komórce.
-
-Prawidłowe wartości to: „w lewo”, „prawo” i „centrum”.
-
-niech config,
-    dane,
-    wydajność;
-
-Dane = [
-    [ ' 10 najszczęśliwszych społeczeństw świata' , ' skala punktów 0-10 ' , ]
-    [ ' 1. Kostaryka   ' , '  8,5  ' , ' 1C ' ]
-    [ ' 2A ' , ' 2B ' , ' 2C ' ]
-];
-
-konfiguracyjny = {
-    Kolumny : {
-         0 : {
-            Wyrównanie :  „ w lewo ” ,
-            MinWidth :  10
-        }
-        1 : {
-            Wyrównanie :  „ Centrum ” ,
-            MinWidth :  10
-        }
-        2 : {
-            Wyrównanie :  „ prawo ” ,
-            MinWidth :  10
-        }
-    }
-};
-
-Wyjście =  stół (dane konfiguracji);
-
-konsola . log (wyjście);
+   
