@@ -9,10 +9,8 @@ i co dawniej nazywano szczęściem, a czym jest ono dla współczesnych ludzi?
 
 Jedno jest pewne! Człowiek dąży do szczęścia, a przyjemność i radość są wpisane w jego osobowość. Już starożytni Grecy wiedzieli, że pomyślność Fortuny jest ważna, a do darów z jej rogu obfitości ma prawo każdy. Epikurejczycy uważali, że szczęście jest największym dobrem człowieka. Stoikom zaś zadowolenie dawało życie w cnocie. Według Arystotelesa głównym celem działania człowieka było dążenie do osiągnięcia szczęścia, a Marek Aureliusz nazywał nim dobre czyny i  dobre skłonności
 
-![zdjęcie gh](http://www.xdpedia.com/obrazki/jaka_jestem_jedyna_w_swoim_rodzaju_dla_kazdego_17947.jpg)
-
+![zdjęcie gh](http://img3.dmty.pl//uploads/201304/1365867327_uh1dbv_600.jpg)
  :star:
-![zdjęcie gh](http://img2.stylowi.pl//images/items/o/201209/stylowi_pl_fotografia_1126397.jpg)
 
 
 
