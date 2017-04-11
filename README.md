@@ -37,6 +37,7 @@ _6 dróg do szczęścia:_
 
 ![zdjęcie]  (http://static.polityka.pl/_resource/res/path/6b/f5/6bf521a9-aa47-4bda-ba78-02def2fd8c31_665x665)
 
+{object} config.border
 niech config,
     dane,
     wydajność;
